@@ -1,4 +1,4 @@
-### Hey 👋 <i style= "color: blue">(・∀・) < Hahaha </i> I'm Kenichi Inoue.
+### Hey 👋 (・∀・) < Hahaha I'm Kenichi Inoue.
 
 [![Github](https://img.shields.io/github/followers/onesword0618?label=Follow&style=social)](https://github.com/onesword0618)
 
