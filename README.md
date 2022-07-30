@@ -27,50 +27,69 @@ Sometimes I teach and watch others program.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer noopener">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer noopener">
+<a href="https://go.dev" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+</a>
+<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic" target="_blank" rel="noreferrer noopener">
+   <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visual-basic" width="40" height="40"/>
+</a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer noopener">
+   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </a>
 
 ### Frontend Development
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer noopener">
+<a href="https://html.spec.whatwg.org/multipage" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener">
+<a href="https://www.w3.org/Style/CSS/current-work" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer noopener">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<a href="https://bulma.io" target="_blank" rel="noreferrer noopener">
+   <img src="https://bulma.io/assets/Bulma%20Icon.svg" alt="bulma" width="40" height="40"/>
 </a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer noopener">
-   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-</a>
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer noopener">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer noopener">
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </a>
+<a href="https://gulpjs.com" target="_blank" rel="noreferrer noopener">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+</a>
+
+<a href="https://babeljs.io" target="_blank" rel="noreferrer noopener">
+   <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="babel" width="40" height="40"/>
+</a>
+<a href="https://prettier.io" target="_blank" rel="noreferrer noopener">
+   <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/prettier-1.svg" alt="prettier" width="40" height="40"/>
+</a>
+<a href="https://eslint.org" target="_blank" rel="noreferrer noopener">
+   <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40"/>
+</a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+</a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer noopener">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 
 ### Backend Development
@@ -177,6 +196,9 @@ Sometimes I teach and watch others program.
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer noopener">
    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </a>
+<a href="https://junit.org/junit5" target="_blank" rel="noreferrer noopener">
+   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/>
+</a>
 
 ### Software
 
@@ -209,8 +231,9 @@ Sometimes I teach and watch others program.
 <details>
    <summary align="center">My Github Stats _φ(･_･ </summary>
       <div align="center">
-         <img src="https://github-readme-stats.vercel.app/api?username=onesword0618&show_icons=true&count_private=true&line_height=40&bg_color=E7BB5E" style="opacity: 0.5; position: absolute; z-index: 1;">
-         <img src="./docs/assets/backgroundImage-stats.jpg" alt="backgroundImage-stats" width="495" height="285">
+         <div style="background-image: url(./docs/assets/backgroundImage-stats.jpg); background-size: 390px; width:340px; height:190px">
+            <img src="https://github-readme-stats.vercel.app/api?username=onesword0618&show_icons=true&count_private=true&line_height=40&bg_color=E7BB5E" style="opacity: 0.5;">
+         </div>
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onesword0618&bg_color=E7BB5E">
       </div>
       <div align="center">
