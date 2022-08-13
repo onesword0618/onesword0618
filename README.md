@@ -84,11 +84,14 @@ Sometimes I teach and watch others program.
 <a href="https://redux.js.org" target="_blank" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
-<a href="https://reactjs.org/" target="_blank" >
+<a href="https://reactjs.org" target="_blank" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://www.typescriptlang.org" target="_blank" >
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="40"/>
+</a>
+<a href="https://storybook.js.org" target="_blank" >
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" width="80" height="40"/>
 </a>
 
 ### Backend Development
@@ -117,7 +120,7 @@ Sometimes I teach and watch others program.
 
 ### Mobile App Development
 
-<a href="https://reactnative.dev/" target="_blank" >
+<a href="https://reactnative.dev" target="_blank" >
    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </a>
 
@@ -147,11 +150,8 @@ Sometimes I teach and watch others program.
 <a href="https://redis.io" target="_blank" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 </a>
-<a href="https://lucene.apache.org/solr/" target="_blank" >
+<a href="https://lucene.apache.org/solr" target="_blank" >
    <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/>
-</a>
-<a href="https://www.nginx.com" target="_blank" >
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
 
 ### Devops
@@ -159,7 +159,7 @@ Sometimes I teach and watch others program.
 <a href="https://aws.amazon.com" target="_blank" >
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" >
+<a href="https://www.docker.com" target="_blank" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://www.jenkins.io" target="_blank" >
@@ -176,6 +176,9 @@ Sometimes I teach and watch others program.
 </a>
 <a href="https://www.vagrantup.com" target="_blank" >
    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+</a>
+<a href="https://www.nginx.com" target="_blank" >
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
 
 ### Backend as a Service(BaaS)
@@ -210,32 +213,80 @@ Sometimes I teach and watch others program.
 <a href="https://junit.org/junit5" target="_blank" >
    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/>
 </a>
+<a href="https://site.mockito.org" target="_blank" >
+   <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" alt="mockito" width="80" height="40"/>
+</a>
 
 ### Software
 
-<a href="https://www.figma.com/" target="_blank" >
+<a href="https://www.figma.com" target="_blank" >
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 <a href="https://postman.com" target="_blank" >
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" >
+<a href="https://www.gnu.org/software/bash" target="_blank" >
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com" target="_blank" >
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+### IDE/Editer
+
+<a href="https://www.eclipse.org" target="_blank" >
+   <img src="https://iconape.com/wp-content/files/dy/370826/png/370826.png" alt="eclipse" width="40" height="40"/>
+</a>
+<a href="https://www.jetbrains.com/idea" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+</a>
+<a href="https://visualstudio.microsoft.com/vs" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+</a>
+<a href="https://www.vim.org" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+</a>
+<a href="https://sakura-editor.github.io" target="_blank" >
+   <img src="https://static-cdn.osdn.net/thumb/g/5/435/800x600_0.png" alt="sakura-editor" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudiocode" width="40" height="40"/>
 </a>
 
 ### Static Site Generators
 
-<a href="https://www.gatsbyjs.com/" target="_blank" >
-   <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
+<a href="https://www.gatsbyjs.com" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" alt="gatsby" width="40" height="40"/>
+</a>
+
+### OS
+
+<a href="https://www.linux.org" target="_blank" >
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://ubuntu.com" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+</a>
+<a href="https://www.centos.org" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/>
+</a>
+<a href="https://www.debian.org" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
 </a>
 
 ### Other
 
-<a href="https://git-scm.com/" target="_blank" >
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://github.co.jp" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </a>
-<a href="https://www.linux.org/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<a href="https://about.gitlab.com" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
+</a>
+<a href="https://www.salesforce.com" target="_blank" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/>
 </a>
 
 </details>
