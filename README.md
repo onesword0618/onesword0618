@@ -246,9 +246,6 @@ Sometimes I teach and watch others program.
 <a href="https://www.vim.org" target="_blank" >
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
 </a>
-<a href="https://sakura-editor.github.io" target="_blank" >
-   <img src="https://static-cdn.osdn.net/thumb/g/5/435/800x600_0.png" alt="sakura-editor" width="40" height="40"/>
-</a>
 <a href="https://code.visualstudio.com" target="_blank" >
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudiocode" width="40" height="40"/>
 </a>
