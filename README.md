@@ -45,6 +45,9 @@ Sometimes I teach and watch others program.
 <a href="https://kotlinlang.org" target="_blank" >
    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </a>
+<a href="https://kotlinlang.org" target="_blank" >
+   <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="40" height="40"/>
+</a>
 
 ### Frontend Development
 
@@ -56,9 +59,6 @@ Sometimes I teach and watch others program.
 </a>
 <a href="https://getbootstrap.com" target="_blank" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-<a href="https://bulma.io" target="_blank" >
-   <img src="https://bulma.io/assets/Bulma%20Icon.svg" alt="bulma" width="40" height="40"/>
 </a>
 <a href="https://tailwindcss.com" target="_blank" >
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
@@ -73,7 +73,7 @@ Sometimes I teach and watch others program.
    <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="babel" width="40" height="40"/>
 </a>
 <a href="https://prettier.io" target="_blank" >
-   <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/prettier-1.svg" alt="prettier" width="40" height="40"/>
+   <img src="https://github.com/prettier/prettier/blob/main/website/static/icon.png?raw=true" alt="prettier" width="40" height="40"/>
 </a>
 <a href="https://eslint.org" target="_blank" >
    <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40"/>
@@ -214,7 +214,7 @@ Sometimes I teach and watch others program.
    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/>
 </a>
 <a href="https://site.mockito.org" target="_blank" >
-   <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" alt="mockito" width="80" height="40"/>
+   <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/main/javadoc/org/mockito/logo.png" alt="mockito" width="80" height="40"/>
 </a>
 
 ### Software
